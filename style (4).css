@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    background-image: url(https://www.lego.com/cdn/cs/catalog/assets/blt88e68e87bf857a62/1/05_LL_Articles_42107.jpg?quality=80&format=webply&width=2560);
+    background-size: cover;
+    
+  }
+  header{
+    justify-content: space-between;
+    background-color: #dd1212;
+    display: flex;
+  }
+  nav a {
+      float: left;
+      text-align: center;
+      padding: 25px 30px;
+      color: white;
+      text-decoration: none;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      
+  }
+  nav a:hover {
+      background-color: rgba(77, 58, 62, 0.781);
+      scale: 125%;
+  }
+  
